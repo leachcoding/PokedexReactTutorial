@@ -4,6 +4,7 @@ import PokemonList from './PokemonList/PokemonList.js';
 import StatsPage from './StatsPage/StatsPage.js';
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
+
 function App() {
   return (
     <BrowserRouter>
